@@ -13,5 +13,7 @@ public class Phone {
 		p.phoneInfo("samsung", "Galaxy note 20");
 		p.phoneInfo(2345678910l, "108MP");
 	}
-	
+	public void sub() {
+		System.out.println("Welcome");
+	}
 }
